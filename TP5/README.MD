@@ -1,4 +1,4 @@
-![logo](/.rsc/img/Logo.png)
+![logo](./IMAGNES/image.png)
 
 # TP5 - Circuito Digital CLS - 07/05/2024  
 
